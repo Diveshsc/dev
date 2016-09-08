@@ -1,0 +1,1 @@
+Sample code for Code Igniter & Wordpress plugin file
